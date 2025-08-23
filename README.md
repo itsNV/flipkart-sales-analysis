@@ -1,2 +1,3 @@
 # flipkart-sales-analysis
-Designed and developed an interactive Power BI dashboard using Flipkart's sample dataset. Performed data cleaning and transformation to ensure accuracy and consistency, and created insightful visualizations to track sales trends and key performance metrics for data-driven decision-making.
+
+Find the power bi Dashboard Here : https://app.powerbi.com/groups/me/reports/fadcdda2-b2ae-4839-a4bd-ebe3c63f1cfb/a5493476200a96ae30ea?experience=power-bi
